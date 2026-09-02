@@ -1,0 +1,58 @@
+about:
+  description: A database migration tool. Supports SQL migrations and Go functions. 
+  license: NOASSERTION
+  homepage: http://pressly.github.io/goose/
+  head: 34124ac
+  archived: false
+  latestVersion: v3.27.3
+  collectedAt: 2026-09-02T04:59:36Z
+timeline:
+  created: 2016-02-25
+  lastCommit: 2026-09-01
+  lastRelease: 2026-07-22
+popularity:
+  star: 11406
+  watcher: 67
+  fork: 692
+  release: 67
+  contributor: 132
+  pullRequest: 310
+  issue: 389
+language:
+  Go: 478993
+  Makefile: 5174
+  Shell: 2545
+totalLine: 486712
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 3
+    openPR: 3
+    closedIssue: 0
+    openIssue: 2
+    commit: 3
+  last90d:
+    since: 2026-06-04
+    release: 2
+    mergedPR: 9
+    openPR: 7
+    closedIssue: 2
+    openIssue: 4
+    commit: 16
+  last180d:
+    since: 2026-03-06
+    release: 3
+    mergedPR: 17
+    openPR: 17
+    closedIssue: 2
+    openIssue: 8
+    commit: 24
+  last360d:
+    since: 2025-09-07
+    release: 5
+    mergedPR: 35
+    openPR: 26
+    closedIssue: 6
+    openIssue: 15
+    commit: 59
