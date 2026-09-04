@@ -7,7 +7,7 @@ about:
   head: 43d2d9c
   archived: false
   latestVersion: v3.28.0
-  collectedAt: 2026-09-04T19:54:37Z
+  collectedAt: 2026-09-04T20:47:09Z
 timeline:
   created: 2016-02-25
   lastCommit: 2026-09-02
@@ -82,6 +82,39 @@ total:
   openIssue: 91
   commit: 867
 ---
+path: /home/runner/.x-repo/github.com/pressly/goose
+collectedAt: 2026-09-04T20:47:10Z
+loc:
+  Go:
+    code: 13402
+    comments: 1751
+    blanks: 1827
+    files: 146
+  Sql:
+    code: 896
+    comments: 358
+    blanks: 152
+    files: 103
+  Makefile:
+    code: 117
+    comments: 7
+    blanks: 30
+    files: 1
+  Sh:
+    code: 62
+    comments: 17
+    blanks: 15
+    files: 2
+  Markdown:
+    code: 0
+    comments: 616
+    blanks: 244
+    files: 6
+total:
+  code: 14599
+  comments: 2771
+  blanks: 2287
+  files: 258
 ---
 date: "2026-08-24"
 repo:
