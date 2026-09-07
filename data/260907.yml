@@ -5,13 +5,13 @@ about:
   head: 43d2d9c
   archived: false
   latestVersion: "v3.28.0"
-  collectedAt: 2026-09-07T05:04:32Z
+  collectedAt: 2026-09-07T19:20:41Z
 timeline:
   created: 2016-02-25
   lastCommit: 2026-09-02
   lastRelease: 2026-09-02
 popularity:
-  star: 11419
+  star: 11429
   watcher: 67
   fork: 695
   release: 68
@@ -81,7 +81,7 @@ total:
   commit: 867
 ---
 path: /home/runner/.x-repo/github.com/pressly/goose
-collectedAt: 2026-09-07T05:04:33Z
+collectedAt: 2026-09-07T19:20:42Z
 loc:
   Go:
     code: 13402
@@ -208,7 +208,7 @@ checks:
       - 'Warn: 0 commits out of 19 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:04:34+00:00
+  collectedAt: 2026-09-07T19:20:42+00:00
   platform:
     darwin/arm64:
       name:  goose_darwin_arm64
