@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.28.0"
   latestRelease: "v3.28.0"
   latestPrerelease: "v2.7.0-rc5"
-  collectedAt: 2026-09-09T05:08:26Z
+  collectedAt: 2026-09-09T19:25:29Z
 timeline:
   created: 2016-02-25
   lastCommit: 2026-09-02
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-02
   lastPrerelease: 2020-08-25
 popularity:
-  star: 11433
+  star: 11437
   watcher: 67
   fork: 697
   release: 68
   contributor: 133
-  pullRequest: 690
+  pullRequest: 691
   issue: 390
 language:
   Go: 479443
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-10
     release: 1
     mergedPR: 3
-    openPR: 6
+    openPR: 7
     closedIssue: 0
     openIssue: 3
     commit: 10
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-11
     release: 2
     mergedPR: 5
-    openPR: 9
+    openPR: 10
     closedIssue: 0
     openIssue: 5
     commit: 16
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-11
     release: 3
     mergedPR: 11
-    openPR: 9
+    openPR: 10
     closedIssue: 2
     openIssue: 5
     commit: 23
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-13
     release: 4
     mergedPR: 20
-    openPR: 16
+    openPR: 17
     closedIssue: 2
     openIssue: 9
     commit: 30
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-14
     release: 6
     mergedPR: 36
-    openPR: 25
+    openPR: 26
     closedIssue: 5
     openIssue: 16
     commit: 63
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-19
     release: 13
     mergedPR: 82
-    openPR: 34
+    openPR: 35
     closedIssue: 35
     openIssue: 37
     commit: 125
 total:
   release: 68
   mergedPR: 379
-  openPR: 38
+  openPR: 39
   closedIssue: 299
   openIssue: 91
   commit: 867
 ---
 path: /home/runner/.x-repo/github.com/pressly/goose
-collectedAt: 2026-09-09T05:08:27Z
+collectedAt: 2026-09-09T19:25:31Z
 loc:
   Go:
     code: 13402
