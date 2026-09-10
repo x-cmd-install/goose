@@ -1,24 +1,75 @@
 # goose
 
+[中文版本](./README.cn.md)
+
 A database migration tool. Supports SQL migrations and Go functions. 
 
-- **Upstream**: <https://github.com/pressly/goose>
-- **Homepage**: <http://pressly.github.io/goose/>
-- **Latest release**: `v3.28.0` (2026-09-02)
-- **Last commit**: 2026-09-02
-- **License**: NOASSERTION
-- **Stars**: 11437 · **Forks**: 697 · **Open issues**: 390 · **Contributors**: 133
+![goose](https://repo.x-cmd.io/goose.svg)
 
-## Installation
+## Install
 
 ```sh
 x install goose
 ```
 
-See <https://x-cmd.com/install/goose> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/pressly/goose>
+- **Homepage**: <http://pressly.github.io/goose/>
+- **License**: NOASSERTION
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:25:34Z._
+- **Latest**: `v3.28.0` (2026-09-02)
+- **Last commit**: 2026-09-02
+- **Assets in release**: 7
+- **Published**: 2026-09-02T08:34:11Z
+
+## Popularity
+
+- **Stars**: 11,439 · **Forks**: 698 · **Open issues**: 390 · **Contributors**: 133
+
+## Totals (cumulative)
+
+- **Releases**: 68 · **Merged PRs**: 379 · **Open PRs**: 39 · **Closed issues**: 299 · **Open issues**: 91 · **Commits**: 867
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 3 | 7 | 0 | 2 | 10 |
+| 90d | 2026-06-12 | 3 | 11 | 10 | 2 | 5 | 23 |
+| 360d | 2025-09-15 | 6 | 36 | 26 | 5 | 15 | 63 |
+
+## Code size
+
+Total: **14,477** lines of code across **258** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 13,402 | 1,751 | 1,827 | 146 |
+| Sql | 896 | 358 | 152 | 103 |
+| Makefile | 117 | 7 | 30 | 1 |
+| Sh | 62 | 17 | 15 | 2 |
+| Markdown | 0 | 616 | 244 | 6 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
+## Improve this data
+
+Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `goose` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/goose.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T05:04:07Z._
