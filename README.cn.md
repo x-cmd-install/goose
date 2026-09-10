@@ -4,7 +4,7 @@
 
 A database migration tool. Supports SQL migrations and Go functions. 
 
-![goose](https://repo.x-cmd.io/goose.svg)
+![goose](https://repo.x-cmd.io/goose.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,34 @@ x install goose
 - **最新版本**: `v3.28.0` (2026-09-02)
 - **最近提交**: 2026-09-02
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-09-02T08:34:11Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.28.0/checksums.txt) | 521 B | `other` |
+| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_arm64) | 38.8 MiB | `native/darwin/arm64` |
+| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_x86_64) | 40.8 MiB | `native/darwin/x64` |
+| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_arm64) | 37.9 MiB | `native/linux/arm64` |
+| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_x86_64) | 40.1 MiB | `native/linux/x64` |
+| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_arm64.exe) | 34.3 MiB | `native/win/arm64` |
+| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_x86_64.exe) | 40.6 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 11,439 · **Fork**: 698 · **开放 issue**: 390 · **贡献者**: 133
+- **Star**: 11,443 · **Fork**: 698 · **开放 issue**: 390 · **贡献者**: 133
 
 ## 累计统计
 
-- **发布数**: 68 · **已合并 PR**: 379 · **开放 PR**: 39 · **已关闭 issue**: 299 · **开放 issue**: 91 · **提交数**: 867
+- **发布数**: 68 · **已合并 PR**: 379 · **开放 PR**: 40 · **已关闭 issue**: 299 · **开放 issue**: 91 · **提交数**: 867
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 3 | 7 | 0 | 2 | 10 |
-| 90d | 2026-06-12 | 3 | 11 | 10 | 2 | 5 | 23 |
-| 360d | 2025-09-15 | 6 | 36 | 26 | 5 | 15 | 63 |
+| 30d | 2026-08-11 | 1 | 3 | 8 | 0 | 2 | 10 |
+| 90d | 2026-06-12 | 3 | 11 | 11 | 2 | 5 | 23 |
+| 360d | 2025-09-15 | 6 | 36 | 27 | 5 | 15 | 63 |
 
 ## 代码规模
 
@@ -72,4 +83,4 @@ goose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:04:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:03:48Z._
