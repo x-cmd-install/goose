@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.28.0"
   latestRelease: "v3.28.0"
   latestPrerelease: "v2.7.0-rc5"
-  collectedAt: 2026-09-11T00:04:12Z
+  collectedAt: 2026-09-11T05:04:26Z
 timeline:
   created: 2016-02-25
   lastCommit: 2026-09-02
@@ -85,7 +85,7 @@ total:
   commit: 867
 ---
 path: /home/runner/.x-repo/github.com/pressly/goose
-collectedAt: 2026-09-11T00:04:16Z
+collectedAt: 2026-09-11T05:04:28Z
 loc:
   Go:
     code: 13402
