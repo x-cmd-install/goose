@@ -4,7 +4,7 @@
 
 A database migration tool. Supports SQL migrations and Go functions. 
 
-![goose](https://repo.x-cmd.io/goose.svg?lang=zh)
+[![x-cmd/install — goose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/goose.svg?lang=zh)](https://x-cmd.com/install/goose)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install goose
 
 ## 流行度
 
-- **Star**: 11,472 · **Fork**: 699 · **开放 issue**: 391 · **贡献者**: 133
+- **Star**: 11,480 · **Fork**: 700 · **开放 issue**: 391 · **贡献者**: 133
 
 ## 累计统计
 
-- **发布数**: 68 · **已合并 PR**: 379 · **开放 PR**: 39 · **已关闭 issue**: 299 · **开放 issue**: 92 · **提交数**: 867
+- **发布数**: 68 · **已合并 PR**: 379 · **开放 PR**: 40 · **已关闭 issue**: 299 · **开放 issue**: 92 · **提交数**: 867
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 2 | 7 | 0 | 2 | 10 |
-| last60d | 2026-07-20 | 2 | 4 | 10 | 0 | 5 | 16 |
-| 90d | 2026-06-20 | 3 | 9 | 11 | 2 | 6 | 22 |
-| last180d | 2026-03-22 | 4 | 16 | 17 | 2 | 9 | 27 |
-| 360d | 2025-09-23 | 6 | 34 | 26 | 5 | 15 | 56 |
-| last720d | 2024-09-28 | 13 | 82 | 35 | 34 | 38 | 125 |
+| 30d | 2026-08-21 | 1 | 2 | 7 | 0 | 2 | 10 |
+| last60d | 2026-07-22 | 2 | 4 | 11 | 0 | 5 | 16 |
+| 90d | 2026-06-22 | 3 | 9 | 12 | 2 | 6 | 22 |
+| last180d | 2026-03-24 | 4 | 16 | 17 | 2 | 9 | 27 |
+| 360d | 2025-09-25 | 6 | 34 | 27 | 5 | 15 | 56 |
+| last720d | 2024-09-30 | 13 | 82 | 36 | 34 | 38 | 125 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ goose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:10:55Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:25:34Z._
