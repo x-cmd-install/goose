@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,510 · **Forks**: 706 · **Open issues**: 394 · **Contributors**: 134
+- **Stars**: 11,513 · **Forks**: 708 · **Open issues**: 394 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 381 · **Open PRs**: 40 · **Closed issues**: 300 · **Open issues**: 94 · **Commits**: 869
+- **Releases**: 68 · **Merged PRs**: 381 · **Open PRs**: 41 · **Closed issues**: 300 · **Open issues**: 94 · **Commits**: 869
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 3 | 9 | 0 | 4 | 2 |
-| last60d | 2026-07-31 | 1 | 5 | 11 | 1 | 5 | 12 |
-| 90d | 2026-07-01 | 2 | 6 | 13 | 1 | 7 | 18 |
-| last180d | 2026-04-02 | 4 | 17 | 17 | 3 | 10 | 28 |
-| 360d | 2025-10-04 | 5 | 36 | 27 | 5 | 17 | 56 |
-| last720d | 2024-10-09 | 13 | 83 | 36 | 34 | 40 | 127 |
+| 30d | 2026-08-31 | 1 | 3 | 10 | 0 | 4 | 2 |
+| last60d | 2026-08-01 | 1 | 5 | 11 | 1 | 5 | 12 |
+| 90d | 2026-07-02 | 2 | 6 | 14 | 1 | 7 | 18 |
+| last180d | 2026-04-03 | 4 | 17 | 18 | 3 | 10 | 28 |
+| 360d | 2025-10-05 | 5 | 36 | 28 | 5 | 17 | 56 |
+| last720d | 2024-10-10 | 13 | 83 | 37 | 34 | 39 | 127 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:04:11Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:53:37Z._
