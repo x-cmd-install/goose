@@ -14,15 +14,15 @@ x install goose
 
 ## 代码洞察
 
-合计: **14,497** 行代码（覆盖前 5 种语言、共 **259** 个文件）。
+合计: **14,498** 行代码（覆盖前 5 种语言、共 **259** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 13,422 | 1,751 | 1,832 | 146 |
+| Go | 13,423 | 1,751 | 1,832 | 146 |
 | Sql | 896 | 358 | 152 | 103 |
 | Makefile | 117 | 7 | 30 | 1 |
 | Sh | 62 | 17 | 15 | 2 |
-| Markdown | 0 | 855 | 304 | 7 |
+| Markdown | 0 | 862 | 309 | 7 |
 
 ## OpenSSF Scorecard 评分
 
@@ -42,40 +42,40 @@ x install goose
 
 ## 发布
 
-- **最新版本**: `v3.28.0` (2026-09-02)
-- **最近提交**: 2026-10-01
+- **最新版本**: `v3.29.0` (2026-10-11)
+- **最近提交**: 2026-10-11
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 11,560 · **Fork**: 713 · **开放 issue**: 396 · **贡献者**: 135
+- **Star**: 11,561 · **Fork**: 713 · **开放 issue**: 396 · **贡献者**: 135
 
 ## 累计统计
 
-- **发布数**: 68 · **已合并 PR**: 382 · **开放 PR**: 45 · **已关闭 issue**: 301 · **开放 issue**: 95 · **提交数**: 870
+- **发布数**: 69 · **已合并 PR**: 384 · **开放 PR**: 43 · **已关闭 issue**: 302 · **开放 issue**: 94 · **提交数**: 874
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 2 | 9 | 1 | 4 | 3 |
-| last60d | 2026-08-12 | 1 | 5 | 15 | 1 | 5 | 13 |
-| 90d | 2026-07-13 | 2 | 7 | 18 | 2 | 8 | 19 |
-| last180d | 2026-04-14 | 4 | 17 | 22 | 4 | 11 | 29 |
-| 360d | 2025-10-16 | 5 | 37 | 31 | 5 | 18 | 57 |
-| last720d | 2024-10-21 | 13 | 81 | 41 | 31 | 39 | 122 |
+| 30d | 2026-09-12 | 1 | 3 | 8 | 2 | 3 | 7 |
+| last60d | 2026-08-13 | 2 | 6 | 14 | 2 | 4 | 17 |
+| 90d | 2026-07-14 | 3 | 8 | 17 | 3 | 7 | 23 |
+| last180d | 2026-04-15 | 5 | 19 | 20 | 5 | 10 | 33 |
+| 360d | 2025-10-17 | 6 | 39 | 28 | 6 | 17 | 61 |
+| last720d | 2024-10-22 | 14 | 83 | 39 | 32 | 38 | 126 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.28.0/checksums.txt) | 521 B | `other` |
-| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_arm64) | 38.8 MiB | `native/darwin/arm64` |
-| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_x86_64) | 40.8 MiB | `native/darwin/x64` |
-| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_arm64) | 37.9 MiB | `native/linux/arm64` |
-| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_x86_64) | 40.1 MiB | `native/linux/x64` |
-| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_arm64.exe) | 34.3 MiB | `native/win/arm64` |
-| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_x86_64.exe) | 40.6 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.29.0/checksums.txt) | 521 B | `other` |
+| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_arm64) | 40.0 MiB | `native/darwin/arm64` |
+| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_x86_64) | 42.0 MiB | `native/darwin/x64` |
+| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_arm64) | 39.4 MiB | `native/linux/arm64` |
+| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_x86_64) | 41.6 MiB | `native/linux/x64` |
+| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_arm64.exe) | 35.5 MiB | `native/win/arm64` |
+| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_x86_64.exe) | 41.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ goose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T06:00:48Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T06:23:13Z._

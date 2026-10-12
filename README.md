@@ -14,15 +14,15 @@ x install goose
 
 ## Code insight
 
-Total: **14,497** lines of code across **259** files in the top 5 languages.
+Total: **14,498** lines of code across **259** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,422 | 1,751 | 1,832 | 146 |
+| Go | 13,423 | 1,751 | 1,832 | 146 |
 | Sql | 896 | 358 | 152 | 103 |
 | Makefile | 117 | 7 | 30 | 1 |
 | Sh | 62 | 17 | 15 | 2 |
-| Markdown | 0 | 855 | 304 | 7 |
+| Markdown | 0 | 862 | 309 | 7 |
 
 ## OpenSSF Scorecard
 
@@ -42,40 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.28.0` (2026-09-02)
-- **Last commit**: 2026-10-01
+- **Latest**: `v3.29.0` (2026-10-11)
+- **Last commit**: 2026-10-11
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 11,560 · **Forks**: 713 · **Open issues**: 396 · **Contributors**: 135
+- **Stars**: 11,561 · **Forks**: 713 · **Open issues**: 396 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 382 · **Open PRs**: 45 · **Closed issues**: 301 · **Open issues**: 95 · **Commits**: 870
+- **Releases**: 69 · **Merged PRs**: 384 · **Open PRs**: 43 · **Closed issues**: 302 · **Open issues**: 94 · **Commits**: 874
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 2 | 9 | 1 | 4 | 3 |
-| last60d | 2026-08-12 | 1 | 5 | 15 | 1 | 5 | 13 |
-| 90d | 2026-07-13 | 2 | 7 | 18 | 2 | 8 | 19 |
-| last180d | 2026-04-14 | 4 | 17 | 22 | 4 | 11 | 29 |
-| 360d | 2025-10-16 | 5 | 37 | 31 | 5 | 18 | 57 |
-| last720d | 2024-10-21 | 13 | 81 | 41 | 31 | 39 | 122 |
+| 30d | 2026-09-12 | 1 | 3 | 8 | 2 | 3 | 7 |
+| last60d | 2026-08-13 | 2 | 6 | 14 | 2 | 4 | 17 |
+| 90d | 2026-07-14 | 3 | 8 | 17 | 3 | 7 | 23 |
+| last180d | 2026-04-15 | 5 | 19 | 20 | 5 | 10 | 33 |
+| 360d | 2025-10-17 | 6 | 39 | 28 | 6 | 17 | 61 |
+| last720d | 2024-10-22 | 14 | 83 | 39 | 32 | 38 | 126 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.28.0/checksums.txt) | 521 B | `other` |
-| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_arm64) | 38.8 MiB | `native/darwin/arm64` |
-| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_darwin_x86_64) | 40.8 MiB | `native/darwin/x64` |
-| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_arm64) | 37.9 MiB | `native/linux/arm64` |
-| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.28.0/goose_linux_x86_64) | 40.1 MiB | `native/linux/x64` |
-| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_arm64.exe) | 34.3 MiB | `native/win/arm64` |
-| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.28.0/goose_windows_x86_64.exe) | 40.6 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.29.0/checksums.txt) | 521 B | `other` |
+| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_arm64) | 40.0 MiB | `native/darwin/arm64` |
+| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_darwin_x86_64) | 42.0 MiB | `native/darwin/x64` |
+| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_arm64) | 39.4 MiB | `native/linux/arm64` |
+| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.29.0/goose_linux_x86_64) | 41.6 MiB | `native/linux/x64` |
+| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_arm64.exe) | 35.5 MiB | `native/win/arm64` |
+| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.29.0/goose_windows_x86_64.exe) | 41.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:00:46Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:23:12Z._
