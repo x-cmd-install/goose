@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,576 · **Forks**: 714 · **Open issues**: 396 · **Contributors**: 136
+- **Stars**: 11,579 · **Forks**: 714 · **Open issues**: 396 · **Contributors**: 136
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 4 | 10 | 2 | 3 | 8 |
-| last60d | 2026-08-16 | 2 | 7 | 16 | 2 | 4 | 18 |
-| 90d | 2026-07-17 | 3 | 9 | 18 | 3 | 6 | 24 |
-| last180d | 2026-04-18 | 5 | 20 | 22 | 5 | 10 | 34 |
-| 360d | 2025-10-20 | 6 | 40 | 30 | 6 | 17 | 62 |
-| last720d | 2024-10-25 | 14 | 84 | 41 | 32 | 38 | 127 |
+| 30d | 2026-09-16 | 1 | 4 | 10 | 2 | 3 | 8 |
+| last60d | 2026-08-17 | 2 | 7 | 16 | 2 | 4 | 18 |
+| 90d | 2026-07-18 | 3 | 8 | 18 | 3 | 6 | 24 |
+| last180d | 2026-04-19 | 5 | 20 | 22 | 5 | 10 | 34 |
+| 360d | 2025-10-21 | 6 | 40 | 30 | 6 | 17 | 62 |
+| last720d | 2024-10-26 | 14 | 84 | 41 | 32 | 38 | 127 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:53:45Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:51:39Z._
