@@ -14,15 +14,15 @@ x install goose
 
 ## Code insight
 
-Total: **14,651** lines of code across **259** files in the top 5 languages.
+Total: **14,662** lines of code across **259** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,576 | 1,756 | 1,877 | 146 |
+| Go | 13,587 | 1,761 | 1,878 | 146 |
 | Sql | 896 | 358 | 152 | 103 |
 | Makefile | 117 | 7 | 30 | 1 |
 | Sh | 62 | 17 | 15 | 2 |
-| Markdown | 0 | 864 | 311 | 7 |
+| Markdown | 0 | 866 | 311 | 7 |
 
 ## OpenSSF Scorecard
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.29.0` (2026-10-11)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-25
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 11,617 · **Forks**: 720 · **Open issues**: 398 · **Contributors**: 137
+- **Stars**: 11,624 · **Forks**: 723 · **Open issues**: 398 · **Contributors**: 139
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 386 · **Open PRs**: 50 · **Closed issues**: 303 · **Open issues**: 95 · **Commits**: 877
+- **Releases**: 69 · **Merged PRs**: 388 · **Open PRs**: 49 · **Closed issues**: 303 · **Open issues**: 95 · **Commits**: 879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 2 | 16 | 2 | 2 | 9 |
-| last60d | 2026-08-26 | 2 | 6 | 21 | 2 | 6 | 20 |
-| 90d | 2026-07-27 | 2 | 9 | 23 | 3 | 8 | 21 |
-| last180d | 2026-04-28 | 4 | 18 | 24 | 5 | 11 | 34 |
-| 360d | 2025-10-30 | 6 | 41 | 35 | 6 | 19 | 64 |
-| last720d | 2024-11-04 | 14 | 84 | 46 | 31 | 40 | 127 |
+| 30d | 2026-09-26 | 1 | 3 | 15 | 2 | 2 | 9 |
+| last60d | 2026-08-27 | 2 | 8 | 20 | 2 | 6 | 19 |
+| 90d | 2026-07-28 | 2 | 11 | 21 | 3 | 8 | 22 |
+| last180d | 2026-04-29 | 4 | 20 | 23 | 5 | 11 | 36 |
+| 360d | 2025-10-31 | 6 | 43 | 34 | 6 | 19 | 66 |
+| last720d | 2024-11-05 | 14 | 86 | 45 | 31 | 40 | 129 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:59:29Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:08:07Z._
