@@ -30,7 +30,7 @@ x install goose
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 11/26 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 13/29 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ x install goose
 
 ## 流行度
 
-- **Star**: 11,655 · **Fork**: 723 · **开放 issue**: 398 · **贡献者**: 139
+- **Star**: 11,660 · **Fork**: 723 · **开放 issue**: 398 · **贡献者**: 139
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install goose
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 2 | 14 | 1 | 2 | 9 |
-| last60d | 2026-09-05 | 1 | 6 | 22 | 2 | 5 | 12 |
-| 90d | 2026-08-06 | 2 | 10 | 23 | 3 | 7 | 22 |
-| last180d | 2026-05-08 | 4 | 20 | 25 | 5 | 11 | 36 |
-| 360d | 2025-11-09 | 6 | 42 | 36 | 6 | 19 | 66 |
-| last720d | 2024-11-14 | 14 | 85 | 47 | 31 | 40 | 129 |
+| 30d | 2026-10-06 | 1 | 2 | 13 | 1 | 2 | 9 |
+| last60d | 2026-09-06 | 1 | 6 | 21 | 2 | 5 | 12 |
+| 90d | 2026-08-07 | 2 | 10 | 23 | 3 | 7 | 22 |
+| last180d | 2026-05-09 | 4 | 20 | 25 | 5 | 11 | 36 |
+| 360d | 2025-11-10 | 6 | 42 | 36 | 6 | 19 | 66 |
+| last720d | 2024-11-15 | 14 | 84 | 47 | 31 | 40 | 129 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ goose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:44:11Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:05:07Z._

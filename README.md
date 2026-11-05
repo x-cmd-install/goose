@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 11/26 approved changesets -- score normalized to 4
+- **Code-Review** (4/10) — Found 13/29 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,655 · **Forks**: 723 · **Open issues**: 398 · **Contributors**: 139
+- **Stars**: 11,660 · **Forks**: 723 · **Open issues**: 398 · **Contributors**: 139
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 2 | 14 | 1 | 2 | 9 |
-| last60d | 2026-09-05 | 1 | 6 | 22 | 2 | 5 | 12 |
-| 90d | 2026-08-06 | 2 | 10 | 23 | 3 | 7 | 22 |
-| last180d | 2026-05-08 | 4 | 20 | 25 | 5 | 11 | 36 |
-| 360d | 2025-11-09 | 6 | 42 | 36 | 6 | 19 | 66 |
-| last720d | 2024-11-14 | 14 | 85 | 47 | 31 | 40 | 129 |
+| 30d | 2026-10-06 | 1 | 2 | 13 | 1 | 2 | 9 |
+| last60d | 2026-09-06 | 1 | 6 | 21 | 2 | 5 | 12 |
+| 90d | 2026-08-07 | 2 | 10 | 23 | 3 | 7 | 22 |
+| last180d | 2026-05-09 | 4 | 20 | 25 | 5 | 11 | 36 |
+| 360d | 2025-11-10 | 6 | 42 | 36 | 6 | 19 | 66 |
+| last720d | 2024-11-15 | 14 | 84 | 47 | 31 | 40 | 129 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:44:10Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:05:07Z._
