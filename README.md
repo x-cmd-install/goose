@@ -14,11 +14,11 @@ x install goose
 
 ## Code insight
 
-Total: **14,749** lines of code across **254** files in the top 5 languages.
+Total: **14,884** lines of code across **255** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 13,669 | 1,769 | 1,883 | 147 |
+| Go | 13,804 | 1,783 | 1,903 | 148 |
 | Sql | 896 | 358 | 152 | 103 |
 | Makefile | 117 | 7 | 30 | 1 |
 | Sh | 62 | 17 | 15 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.30.0` (2026-11-10)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 11,683 · **Forks**: 726 · **Open issues**: 400 · **Contributors**: 139
+- **Stars**: 11,693 · **Forks**: 727 · **Open issues**: 401 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 391 · **Open PRs**: 54 · **Closed issues**: 305 · **Open issues**: 95 · **Commits**: 883
+- **Releases**: 70 · **Merged PRs**: 393 · **Open PRs**: 53 · **Closed issues**: 306 · **Open issues**: 95 · **Commits**: 885
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 4 | 16 | 0 | 4 | 8 |
-| last60d | 2026-09-12 | 2 | 8 | 22 | 2 | 7 | 16 |
-| 90d | 2026-08-13 | 3 | 13 | 26 | 2 | 8 | 26 |
-| last180d | 2026-05-15 | 5 | 22 | 28 | 7 | 11 | 39 |
-| 360d | 2025-11-16 | 7 | 45 | 39 | 8 | 19 | 66 |
-| last720d | 2024-11-21 | 15 | 86 | 50 | 30 | 40 | 127 |
+| 30d | 2026-10-13 | 1 | 6 | 14 | 1 | 4 | 10 |
+| last60d | 2026-09-13 | 2 | 10 | 21 | 3 | 7 | 18 |
+| 90d | 2026-08-14 | 3 | 15 | 25 | 3 | 8 | 28 |
+| last180d | 2026-05-16 | 5 | 24 | 27 | 8 | 11 | 41 |
+| 360d | 2025-11-17 | 7 | 47 | 38 | 9 | 19 | 68 |
+| last720d | 2024-11-22 | 14 | 88 | 49 | 31 | 39 | 128 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:46:20Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:41:22Z._
