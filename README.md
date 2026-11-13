@@ -42,40 +42,40 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.30.0` (2026-11-10)
-- **Last commit**: 2026-11-11
+- **Latest**: `v3.30.1` (2026-11-12)
+- **Last commit**: 2026-11-12
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 11,693 · **Forks**: 727 · **Open issues**: 401 · **Contributors**: 140
+- **Stars**: 11,706 · **Forks**: 728 · **Open issues**: 402 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 393 · **Open PRs**: 53 · **Closed issues**: 306 · **Open issues**: 95 · **Commits**: 885
+- **Releases**: 71 · **Merged PRs**: 393 · **Open PRs**: 54 · **Closed issues**: 307 · **Open issues**: 95 · **Commits**: 886
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 1 | 6 | 14 | 1 | 4 | 10 |
-| last60d | 2026-09-13 | 2 | 10 | 21 | 3 | 7 | 18 |
-| 90d | 2026-08-14 | 3 | 15 | 25 | 3 | 8 | 28 |
-| last180d | 2026-05-16 | 5 | 24 | 27 | 8 | 11 | 41 |
-| 360d | 2025-11-17 | 7 | 47 | 38 | 9 | 19 | 68 |
-| last720d | 2024-11-22 | 14 | 88 | 49 | 31 | 39 | 128 |
+| 30d | 2026-10-14 | 2 | 6 | 14 | 2 | 4 | 11 |
+| last60d | 2026-09-14 | 3 | 10 | 22 | 4 | 7 | 19 |
+| 90d | 2026-08-15 | 4 | 15 | 26 | 4 | 8 | 29 |
+| last180d | 2026-05-17 | 6 | 24 | 28 | 9 | 11 | 42 |
+| 360d | 2025-11-18 | 8 | 47 | 39 | 10 | 19 | 69 |
+| last720d | 2024-11-23 | 15 | 87 | 50 | 32 | 39 | 129 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.30.0/checksums.txt) | 521 B | `other` |
-| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.30.0/goose_darwin_arm64) | 40.1 MiB | `native/darwin/arm64` |
-| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.30.0/goose_darwin_x86_64) | 42.2 MiB | `native/darwin/x64` |
-| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.30.0/goose_linux_arm64) | 39.4 MiB | `native/linux/arm64` |
-| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.30.0/goose_linux_x86_64) | 41.7 MiB | `native/linux/x64` |
-| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.30.0/goose_windows_arm64.exe) | 35.7 MiB | `native/win/arm64` |
-| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.30.0/goose_windows_x86_64.exe) | 42.0 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/pressly/goose/releases/download/v3.30.1/checksums.txt) | 521 B | `other` |
+| [goose_darwin_arm64](https://github.com/pressly/goose/releases/download/v3.30.1/goose_darwin_arm64) | 40.1 MiB | `native/darwin/arm64` |
+| [goose_darwin_x86_64](https://github.com/pressly/goose/releases/download/v3.30.1/goose_darwin_x86_64) | 42.2 MiB | `native/darwin/x64` |
+| [goose_linux_arm64](https://github.com/pressly/goose/releases/download/v3.30.1/goose_linux_arm64) | 39.4 MiB | `native/linux/arm64` |
+| [goose_linux_x86_64](https://github.com/pressly/goose/releases/download/v3.30.1/goose_linux_x86_64) | 41.7 MiB | `native/linux/x64` |
+| [goose_windows_arm64.exe](https://github.com/pressly/goose/releases/download/v3.30.1/goose_windows_arm64.exe) | 35.7 MiB | `native/win/arm64` |
+| [goose_windows_x86_64.exe](https://github.com/pressly/goose/releases/download/v3.30.1/goose_windows_x86_64.exe) | 42.0 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for goose lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:41:22Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:17:46Z._
